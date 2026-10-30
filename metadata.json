@@ -1,0 +1,6 @@
+{
+  "name": "APAAR CONNECT AI",
+  "description": "AICTE-aligned APAAR ID-based student data management, duplicate enrolment detection, approved intake monitoring, and secure cryptographic verification platform.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
